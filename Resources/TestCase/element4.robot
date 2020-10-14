@@ -28,5 +28,6 @@ ${url}=       http://omayo.blogspot.com/
      Close Browser
      
 TC_003
-    Log To Console    github_pratique
+    Log To Console    github_pratique C'est COOOL AH
+    
          
