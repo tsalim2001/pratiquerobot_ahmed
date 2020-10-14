@@ -25,4 +25,8 @@ ${url}=       http://omayo.blogspot.com/
      Select From List By Label    id=multiselect1     Volvo
      Select From List By Label    id=multiselect1     Audi   
      Select From List By Label    id=multiselect1     Swift               
-     Close Browser 
+     Close Browser
+     
+TC_003
+    Log To Console    github_pratique
+         
